@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Session Management App</string>
+
+    <!-- custom strings -->
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="logout">Logout</string>
+</resources>
